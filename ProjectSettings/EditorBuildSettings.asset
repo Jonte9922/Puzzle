@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: e6be389d33b9fcc4e8a6ae0d33fa8058
+  - enabled: 1
+    path: Assets/Scenes/Puzzel_run.unity
+    guid: d0d745d0f3afcf844a722680edb87d17
+  - enabled: 1
+    path: Assets/Scenes/Puzzel_run_sub.unity
+    guid: ac9f633f463da4749af99fdea6789f8c
+  - enabled: 1
+    path: Assets/Scenes/Puzzel_b.unity
+    guid: dae32da38ef0e89438241a8ed65f32e9
+  - enabled: 1
+    path: Assets/Scenes/Puzzel_b_sub.unity
+    guid: 71ea96e6e50f0cf41ba66dce2fe6405a
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: c8410078e49568c4c9091456cfc204b8
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: cb40d61db31799145aceafc615d03770,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0c99d6fc62d96c6459494c82600ffec7,
+      type: 2}
